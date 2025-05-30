@@ -14,6 +14,6 @@ npm install
 ### Orders View
 ![Orders Screenshot](Screenshot%202025-05-29%20063049.png)
 
-### Invoice View
+### Login/signup view
 ![Invoice Screenshot](Screenshot%202025-05-30%20123622.png)
 
