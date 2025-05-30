@@ -9,11 +9,11 @@ npm install
 ## Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](Screenshot%202025-05-29%20063037.png)
+![Dashboard Screenshot](screenshots/Screenshot%202025-05-29%20063037.png)
 
 ### Orders View
-![Orders Screenshot](Screenshot%202025-05-29%20063049.png)
+![Orders Screenshot](screenshots/Screenshot%202025-05-29%20063049.png)
 
 ### Invoice View
-![Invoice Screenshot](Screenshot%202025-05-30%20123622.png)
+![Invoice Screenshot](screenshots/Screenshot%202025-05-30%20123622.png)
 
