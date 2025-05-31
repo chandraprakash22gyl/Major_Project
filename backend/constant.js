@@ -19,7 +19,7 @@
 
 const PUBLIC_DATA = {
   port:  8000,
-  mongo_uri: 'mongodb+srv://goyalchandraprakash8:e6pRlJYml7D1Bqs6@cluster0.hh41wpk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+  mongo_uri: 'Put ur mongodb Url here',
   jwt_auth: '@#$%^&*(@#$%^&*($%^))#$%^&',
 };
 module.exports = { PUBLIC_DATA };
